@@ -1,0 +1,6 @@
+Package1--P001--Iles aux Cerfs--Trou d'Eau Douce--Africa--200.0--100.0--150.0--8
+Package2--P002--Casela--Cascavelle--North America--400.0--250.0--200.0--6
+Package3--P003--Quad Biking--Andreas Lounge--South America--1000.0--800.0--1000.0--1
+Package4--P004--Lakaz--Port Louis--Indian Ocean Islands--500.0--400.0--1000.0--24
+Package5--P005--Middlesex University--Flic en Flac--Indian Ocean Islands--200000.0--200000.0--200000.0--4
+Package6--P006--Airport--Mahebourg--Indian Ocean Islands--200.0--100.0--150.0--1
